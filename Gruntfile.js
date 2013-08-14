@@ -3,6 +3,9 @@ var SRC_DIR = 'src/';
 var SRC_JS = SRC_DIR + 'js/';
 var SRC_CSS = SRC_DIR + 'css/';
 var SRC_LIB = SRC_DIR + 'lib/';
+var SRC_LAYOUTS = SRC_DIR + 'layouts/';
+var SRC_PARTIALS = SRC_DIR + 'partials/';
+var SRC_VIEWS = SRC_DIR + 'views/';
 var BUILD_DIR = 'build/';
 var BUILD_JS = BUILD_DIR + 'js/';
 var BUILD_CSS = BUILD_DIR + 'css/';
@@ -58,6 +61,14 @@ module.exports = function (grunt) {
     },
 
     watch: {
+      html: {
+        files: [
+          SRC_LAYOUTS + '**/*',
+          SRC_PARTIALS + '**/*',
+          SRC_VIEWS + '**/*',
+        ],
+        tasks: ['assemble']
+      },
       js: {
         files: [SRC_JS + '**/*.js'],
         tasks: ['closure-compiler:js', 'concat:js', 'concat:minjs']
@@ -112,6 +123,19 @@ module.exports = function (grunt) {
       css: {
         files: stylus_files
       }
+    },
+
+    assemble: {
+      options: {
+        layoutdir: SRC_LAYOUTS,
+        partials: SRC_PARTIALS + '**/*',
+        flatten: true
+      },
+      views: {
+        options: { layout: 'default.hbs' },
+        src: [SRC_VIEWS + '**/*'],
+        dest: BUILD_DIR
+      }
     }
   });
 
@@ -122,7 +146,8 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-closure-compiler');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-stylus');
+  grunt.loadNpmTasks('assemble');
 
-  grunt.registerTask('default', ['stylus', 'cssmin', 'closure-compiler', 'concat']);
+  grunt.registerTask('default', ['stylus', 'cssmin', 'closure-compiler', 'concat', 'assemble']);
   grunt.registerTask('test', ['jshint']);
 };
