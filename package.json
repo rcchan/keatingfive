@@ -1,0 +1,15 @@
+{
+  "repository": {
+    "type": "git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-contrib-jshint": "~0.5.2",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-closure-compiler": "~0.0.19",
+    "grunt-contrib-stylus": "~0.7.0",
+    "grunt-contrib-cssmin": "~0.6.1"
+  }
+}
