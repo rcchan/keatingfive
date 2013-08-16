@@ -1,1 +1,15 @@
 Options -indexes
+
+RewriteEngine on
+
+# Redirects domain.com/file.html to domain.com/file
+#RewriteCond %{REQUEST_FILENAME} !-d          # is not directory
+#RewriteCond %{REQUEST_FILENAME}\.html -f     # is an existing html file
+#RewriteCond %{REQUEST_URI} ^(.+)\.html$      # request URI ends with .html
+#RewriteRule (.*)\.html$ /$1 [R=301,L]        # redirect from index.html to index
+
+#RewriteCond %{DOCUMENT_ROOT}%{REQUEST_FILENAME} !=""
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_FILENAME} !-d          # is not directory
+#RewriteCond %{REQUEST_FILENAME} !-f          # is not existing file
+#RewriteCond %{REQUEST_FILENAME}.html -f      # is an existing html file
+RewriteRule ^(.*)$ $1.html [L]                # rewrite index to index.html
