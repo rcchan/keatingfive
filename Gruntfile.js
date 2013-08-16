@@ -136,6 +136,13 @@ module.exports = function (grunt) {
         src: [SRC_VIEWS + '**/*'],
         dest: BUILD_DIR
       }
+    },
+    
+    symlink: {
+      img: {
+        src: 'src/img',
+        dest: 'build/img'
+      }
     }
   });
 
@@ -146,8 +153,9 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-closure-compiler');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-stylus');
+  grunt.loadNpmTasks('grunt-contrib-symlink');
   grunt.loadNpmTasks('assemble');
 
-  grunt.registerTask('default', ['stylus', 'cssmin', 'closure-compiler', 'concat', 'assemble']);
+  grunt.registerTask('default', ['stylus', 'cssmin', 'closure-compiler', 'concat', 'assemble', 'symlink']);
   grunt.registerTask('test', ['jshint']);
 };
