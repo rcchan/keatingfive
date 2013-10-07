@@ -142,6 +142,10 @@ module.exports = function (grunt) {
       img: {
         src: 'src/img',
         dest: 'build/img'
+      },
+      '.htaccess': {
+        src: 'src/.htaccess',
+        dest: 'build/.htaccess'
       }
     }
   });
