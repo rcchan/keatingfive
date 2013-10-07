@@ -143,6 +143,10 @@ module.exports = function (grunt) {
         src: 'src/img',
         dest: 'build/img'
       },
+      files: {
+        src: 'src/files',
+        dest: 'build/files'
+      },
       '.htaccess': {
         src: 'src/.htaccess',
         dest: 'build/.htaccess'
