@@ -4,10 +4,15 @@ Options -indexes
 RewriteEngine on
 #RewriteBase /
 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.*)$ $1.html [L]
+RewriteCond %{REQUEST_URI} ^/$
+RewriteRule ^ views/ [L]
+
+RewriteCond %{DOCUMENT_ROOT}/views%{REQUEST_URI} -d
+RewriteRule ^(.*)$ views/$1 [L]
+
+RewriteCond %{DOCUMENT_ROOT}/views%{REQUEST_URI} !-f
+RewriteCond %{DOCUMENT_ROOT}/views%{REQUEST_URI}.html -f
+RewriteRule ^(.*)$ views/$1.html [L]
 
 # Redirects domain.com/file.html to domain.com/file
 #RewriteCond %{REQUEST_FILENAME} !-d

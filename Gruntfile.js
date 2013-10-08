@@ -128,12 +128,14 @@ module.exports = function (grunt) {
     assemble: {
       options: {
         layoutdir: SRC_LAYOUTS,
-        partials: SRC_PARTIALS + '**/*',
-        flatten: true
+        partials: SRC_PARTIALS + '**/*'
       },
       views: {
+        expand: true,
+        cwd: SRC_DIR,
         options: { layout: 'default.hbs' },
-        src: [SRC_VIEWS + '**/*'],
+        src: [SRC_VIEWS.substring(SRC_DIR.length) + '**/*'],
+        filter: 'isFile',
         dest: BUILD_DIR
       }
     },
