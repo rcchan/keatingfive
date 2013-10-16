@@ -88,7 +88,7 @@ module.exports = function (grunt) {
     },
 
     'closure-compiler': {
-      scripts: {
+      js: {
         closurePath: 'tools/closure-compiler',
         js: [SRC_JS + '**/*.js', '!**/*.min.js'],
         jsOutputFile: BUILD_JS + '_scripts.min.js',
