@@ -22,7 +22,7 @@ var timeline = function(){
         $('#title').text('');
       }).stack().display('circle').scroll(function(){
         console.log(arguments);
-      });
+      }).colors(d3.scale.ordinal().range(['#8484bc']));
 
       var svg = d3.select("#timeline").append("svg").attr('width', 800).attr('height', 500).datum(data).call(chart);
     })();
@@ -48,7 +48,7 @@ var timeline = function(){
         $('#mtitle').text(datum.data[0] + (datum.data[1] ? ' - ' + datum.data[1] : '') + ': ' + datum.data[2]);
       }).mouseout(function(){
         $('#mtitle').text('');
-      }).stack().display('circle');
+      }).stack().display('circle').colors(d3.scale.ordinal().range(['#8484bc']));
 
       var svg = d3.select("#mtimeline").append("svg").attr('width', 800).attr('height', 500).datum(data).call(chart);
     })();
