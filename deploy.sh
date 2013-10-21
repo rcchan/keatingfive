@@ -1,3 +1,5 @@
-rm -r build/* build/.*
+shopt -s dotglob
+rm -r build/*
+shopt -u dotglob
 grunt
-rsync -rLkpEtzPc /web/keating5/build/ rchan@keating:~/web
+rsync -rLkpEtzPc --delete-delay /web/keating5/build/ rchan@keating:~/web
