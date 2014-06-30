@@ -1,0 +1,33 @@
+DirectoryIndex default.html
+Options -indexes
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_URI} ^/$
+RewriteRule ^ build/views/ [L]
+
+#RewriteCond %{DOCUMENT_ROOT}/views%{REQUEST_URI} -d
+RewriteCond build/views%{REQUEST_URI} -d
+RewriteRule ^(.*)$ views/$1 [L]
+
+#RewriteCond %{DOCUMENT_ROOT}/views%{REQUEST_URI} !-f
+#RewriteCond %{DOCUMENT_ROOT}/views%{REQUEST_URI}.html -f
+#RewriteCond build/views%{REQUEST_URI} !-f
+RewriteCond %{DOCUMENT_ROOT}/build/views%{REQUEST_URI} !-f
+RewriteCond %{DOCUMENT_ROOT}/build/views%{REQUEST_URI}.html -f
+RewriteRule ^(.*)$ %{DOCUMENT_ROOT}/build/views/$1.html
+#RewriteRule ^(.*)$ views/$1.html [L]
+
+#RewriteCond %{REQUEST_URI} !build
+RewriteCond %{DOCUMENT_ROOT}/build/%{REQUEST_URI} -f
+RewriteCond %{REQUEST_URI} !views
+#RewriteCond %{REQUEST_URI} !
+RewriteRule ^(.*)$ build/$1 [L]
+
+# Redirects domain.com/file.html to domain.com/file
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}\.html !-f
+#RewriteCond %{REQUEST_URI} ^(.+)\.html$
+#RewriteRule build/(.*)\.html$ /$1 [R=301,L]
+
+#RewriteCond %{REQUEST_URI} ^
