@@ -20,3 +20,7 @@ RewriteRule ^(.*)$ views/$1.html [L]
 #RewriteCond %{REQUEST_URI} ^(.+)\.html$
 #RewriteRule build/(.*)\.html$ /$1 [R=301,L]
 
+<Files src/*>
+        order allow,deny
+        deny from all
+</Files>
