@@ -43,29 +43,29 @@
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
         <h4 class="modal-title">Search Results</h4>
       </div>
-      <div class="modal-body" id="search-results"></div>
+      <gcse:searchresults-only></gcse:searchresults-only>
     </div>
   </div>
 </div>
-<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script>
+  (function() {
+    var cx = '004598588032668485318:pashkchxabg';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
 <script type="text/javascript">
-  google.load('search', '1',
-      {language : 'en', style : google.loader.themes.SHINY});
-  
-  var customSearchControl = null;
-  google.setOnLoadCallback(function() {
-    customSearchControl = new google.search.CustomSearchControl('004598588032668485318:pashkchxabg');
-    customSearchControl.setLinkTarget(google.search.Search.LINK_TARGET_SELF);
-    var options = new google.search.DrawOptions();
-    customSearchControl.draw('search-results', options);
-  }, true);
-  
   function executeQuery() {
     var input = document.getElementById('cse-search-input-box-id');
+    var element = google.search.cse.element.getElement('searchresults-only0');
     if (input.value == '') {
-      customSearchControl.clearAllResults();
+      element.clearAllResults();
     } else {
-      customSearchControl.execute(input.value)
+      element.execute(input.value);
     }
     return false;
   }
