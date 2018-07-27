@@ -1,950 +1,950 @@
 {
   "events": [{
-    "start": "1/1/1972",
+    "start": "1/1/1972 00:00:00 GMT-0600",
     "title": "Jordan joins Cranston's banking staff",
     "description": "Would later become chief banking aide",
     "tags": ["Jordan", "Cranston"]
   }, {
-    "start": "1/1/1978",
+    "start": "1/1/1978 00:00:00 GMT-0600",
     "title": "Sedlmayr begins working for DeConcini full time",
     "tags": ["Sedlmayr", "DeConcini"]
   }, {
-    "start": "1/1/1978",
+    "start": "1/1/1978 00:00:00 GMT-0600",
     "title": "Jacobson starts working for Cranston (on Senate staff)",
     "tags": ["Jacobson", "Cranston"]
   }, {
-    "start": "1/1/1981",
+    "start": "1/1/1981 00:00:00 GMT-0600",
     "title": "DeConcini meets Keating for the first time at a party",
     "description": "At the Navy League dinner",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "1/1/1981",
+    "start": "1/1/1981 00:00:00 GMT-0600",
     "title": "McCain meets Keating for the first time",
     "description": "At the Navy League dinner",
     "tags": ["McCain", "Keating"]
   }, {
-    "start": "8/5/1981",
+    "start": "8/5/1981 00:00:00 GMT-0600",
     "title": "DeConcini endorses Keating for Bahamas ambassadorship in letter to President",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "1/1/1982",
+    "start": "1/1/1982 00:00:00 GMT-0600",
     "title": "Keating gives money to McCain's 1st House campaign",
     "tags": ["Keating", "McCain"]
   }, {
-    "start": "1/1/1982",
+    "start": "1/1/1982 00:00:00 GMT-0600",
     "title": "DeConcini asks Keating to help with fundraising for his '82 Senate campaign",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "3/24/1983",
+    "start": "3/24/1983 00:00:00 GMT-0600",
     "title": "Ed Gray becomes Chairman of the FHLBB",
     "tags": ["Gray", "FHLBB"]
   }, {
-    "start": "1/1/1984",
+    "start": "1/1/1984 00:00:00 GMT-0600",
     "title": "Keating gives money to McCain's 2nd House campaign",
     "tags": ["Keating", "McCain"]
   }, {
-    "start": "1/1/1984",
+    "start": "1/1/1984 00:00:00 GMT-0600",
     "title": "DeConcini's office (Sedlmayr) starts dealing with Keating",
     "description": "Sending messages to other senators on his behalf",
     "tags": ["DeConcini", "Sedlmayr", "Keating"]
   }, {
-    "start": "1/1/1984",
+    "start": "1/1/1984 00:00:00 GMT-0600",
     "title": "Jacobson leaves Senate staff and becomes \"Fundraising Coordinator\" for Cranston",
     "tags": ["Cranston", "Jacobson"]
   }, {
-    "start": "1/2/1984",
+    "start": "1/2/1984 00:00:00 GMT-0600",
     "title": "Keating arranges for contributions to retire Glenn's '84 presidential debt",
     "tags": ["Keating", "Glenn"]
   }, {
-    "start": "1/9/1984",
+    "start": "1/9/1984 00:00:00 GMT-0600",
     "title": "McCain meets with Keating socially in Phoenix",
     "tags": ["Keating", "McCain"]
   }, {
-    "start": "6/18/1984",
+    "start": "6/18/1984 00:00:00 GMT-0600",
     "title": "DeConcini {writes} Cranston expressing his support to stop new FHLBB regulations",
     "tags": ["DeConcini", "Glenn"],
     "link": "/files/exhibits/DeConcini/%234%20DeConcini%20to%20Cranston%2006-18-84.pdf"
   }, {
-    "start": "6/19/1984",
+    "start": "6/19/1984 00:00:00 GMT-0600",
     "title": "Glenn's staff {meets} with Grogan and Lincoln's lawyers regarding \"Direct Investment\" rules",
     "tags": ["Grogan", "Lincoln", "Glenn"],
     "link": "/files/exhibits/Lincoln/%232%20Lincoln's%20View%2006-20-84.pdf"
   }, {
-    "start": "6/20/1984",
+    "start": "6/20/1984 00:00:00 GMT-0600",
     "title": "Glenn sends {letter} to Gray re: dissatisfaction with proposed \"Direct Investment\" rules",
     "tags": ["Glenn", "Gray"],
     "link": "/files/exhibits/Glenn/%231%20Glenn%20to%20Gray%2006-20-84.pdf"
   }, {
-    "start": "6/21/1984",
+    "start": "6/21/1984 00:00:00 GMT-0600",
     "title": "Sedlmayr prepares letter to Gray requesting delay of new \"Direct Investment\" regulations",
     "description": "FHLBB was thinking of regulating the amount of investment thrifts could directly make in real estate ventures following the passage of S&L deregulation",
     "tags": ["Sedlmayr", "DeConcini", "Gray"]
   }, {
-    "start": "6/24/1984",
+    "start": "6/24/1984 00:00:00 GMT-0600",
     "title": "McCain sends letter to Gray on proposed \"Direct Investment\" regulation",
     "description": "McCain questions whether it is the appropriate remedy for the S&L industry",
     "tags": ["Gray", "McCain"]
   }, {
-    "start": "7/11/1984",
+    "start": "7/11/1984 00:00:00 GMT-0600",
     "title": "Cranston sends {letter} to Gray on proposed \"Direct Investment\" regulation",
     "description": "Expresses concern and requests deferred adoption",
     "tags": ["Cranston", "Gray"],
     "link": "/files/exhibits/Cranston/%234%20Cranston%20to%20Gray%20DI%20Regs.%2007-11-84.pdf"
   }, {
-    "start": "7/16/1984",
+    "start": "7/16/1984 00:00:00 GMT-0600",
     "end": "7/19/1984",
     "durationEvent": true,
     "title": "Cranston and Jacobson meet Grogan at Democratic National Convention",
     "description": "Grogan says Keating could help clear Cranston's presidential bid debt (they later send $10,000 in individual contributions)",
     "tags": ["Keating, Grogan", "Cranston", "Jacobson"]
   }, {
-    "start": "8/8/1984",
+    "start": "8/8/1984 00:00:00 GMT-0600",
     "title": "McCain sends a follow-up {letter} to Grey on the \"Direct Investment\" regulations\nEnclosed a copy of a 1952 study by the FHLBB which suggested that liberalization of investment powers had proved successful. Requests a full hearing on the matter",
     "tags": ["Gray", "McCain"],
     "link": "/files/exhibits/McCain/%235%20McCain%20to%20Gray%2008-08-84.pdf"
   }, {
-    "start": "12/13/1984",
+    "start": "12/13/1984 00:00:00 GMT-0600",
     "title": "Cranston, Jordan, and Grogan meet re: possible \"Direct Investment\" laws",
     "tags": ["Cranston", "Jordan", "Grogan"]
   }, {
-    "start": "12/17/1984",
+    "start": "12/17/1984 00:00:00 GMT-0600",
     "title": "Alan Greenspan attends meeting with Grogan and Cranston",
     "description": "Greenspan does investigation of Lincoln and endorses their \"Direct Investment\" practices",
     "tags": ["Greenspan", "Grogan", "Cranston"]
   }, {
-    "start": "12/17/1984",
+    "start": "12/17/1984 00:00:00 GMT-0600",
     "title": "Alan Greenspan visits Glenn's office",
     "description": "Updates Glenn on his investigation and endorsement of Lincoln (unknown if Grogan was there)",
     "tags": ["Greenspan", "Glenn", "Lincoln"]
   }, {
-    "start": "7/17/1984",
+    "start": "7/17/1984 00:00:00 GMT-0600",
     "title": "Glenn's staff sends him a {letter} highlighting issues between Lincoln and the FHLBB",
     "description": "Notes that \"Ohio is one of the affected states",
     "tags": ["Glenn"],
     "link": "/files/exhibits/Glenn/%232%20Glenn%20Office%20Memo%2012-17-84.pdf"
   }, {
-    "start": "12/17/1984",
+    "start": "12/17/1984 00:00:00 GMT-0600",
     "title": "Glenn sends further {letter} to Gray re: dissatisfaction with \"Direct Investment\" proposal",
     "tags": ["Glenn", "Gray"],
     "link": "/files/exhibits/Glenn/%233%20Glenn%20to%20Gray%2012-17-84.pdf"
   }, {
-    "start": "1/1/1985",
+    "start": "1/1/1985 00:00:00 GMT-0600",
     "title": "DeConcini asks Keating to serve on Finance Committee of his '88 reelection campaign",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "1/3/1985",
+    "start": "1/3/1985 00:00:00 GMT-0600",
     "title": "DeConcini inter-office {memo} details actions Keating wants DeConcini to take to fight \"Direct Investment\" rule",
     "description": "DeConcini makes phone calls the next day, then confirms with Keating",
     "tags": ["Keating", "DeConcini"],
     "link": "/files/exhibits/DeConcini/%235%20DeConcini%20Office%20Memo%2001-03-85.pdf"
   }, {
-    "start": "1/4/1985",
+    "start": "1/4/1985 00:00:00 GMT-0600",
     "title": "McCain sends letter to Gray requesting an extension of the moment period on the \"Direct Investment\" proposal",
     "tags": ["Gray", "McCain"]
   }, {
-    "start": "1/30/1985",
+    "start": "1/30/1985 00:00:00 GMT-0600",
     "title": "FHLBB promulgates \"Direct Investment\" rule",
     "description": "Under the new rule, effective April 16th, the amount of direct investment that a thrift would be allowed to make will be tied to its net worth. Formerly, institutions with a relatively low level of net worth could make direct investment up to 10% of net assets without obtaining regulatory approval",
     "tags": ["FHLBB"]
   }, {
-    "start": "1/30/1985",
+    "start": "1/30/1985 00:00:00 GMT-0600",
     "title": "Glenn and DeConcini send a joint {letter} to Gray criticizing \"Direct Investment\" rule",
     "description": "Propose that the FHLBB defer acting on regulations until June",
     "tags": ["Glenn", "DeConcini", "Gray"],
     "link": "/files/exhibits/Glenn/%234%20DeConcini%20and%20Glenn%20et%20al.%20to%20Gray%2001-30-85.pdf"
   }, {
-    "start": "1/31/1985",
+    "start": "1/31/1985 00:00:00 GMT-0600",
     "title": "Cranston sends {letter} to Gray requesting an extension of the moment period on the \"Direct Investment\" proposal",
     "tags": ["Cranston", "Gray"],
     "link": "/files/exhibits/Cranston/%235%20Cranston%20to%20Gray%20DI%20Regs.%2001-31-85.pdf"
   }, {
-    "start": "2/5/1985",
+    "start": "2/5/1985 00:00:00 GMT-0600",
     "title": "{Media:} Everything's Black and White When It Comes to Ed Gray",
     "description": "\"Mortgage-industry insiders are still talking about the performance that savings and loan regulatory czar Edwin J. Gray gave last March before a prestigious group of about 100 industry executives regarding \"Direct Investment\" laws.",
     "tags": ["Media", "Gray"],
     "link": "/files/evidence/5"
   }, {
-    "start": "2/13/1985",
+    "start": "2/13/1985 00:00:00 GMT-0600",
     "title": "Greenspan releases {letter} supporting Lincoln's bid to avoid \"Direct Investment\" rule",
     "description": "Lincoln was seeking an exemption from the FHLBB",
     "tags": ["Greenspan", "Lincoln"],
     "link": "/files/exhibits/Lincoln/%231%20Greenspan%20Supports%20Lincoln%2002-13-85.pdf"
   }, {
-    "start": "4/9/1985",
+    "start": "4/9/1985 00:00:00 GMT-0600",
     "title": "Keating and Grogan organize a fundraiser for Cranston",
     "description": "$15,000 is raised",
     "tags": ["Keating", "Grogan", "Cranston"]
   }, {
-    "start": "7/1/1985",
+    "start": "7/1/1985 00:00:00 GMT-0600",
     "title": "DeConcini writes letters to the Treasury Secretary re: various complaints about Gray",
     "description": "Write Keating and lets him know that he has made these complaints",
     "tags": ["DeConcini", "Gray", "Keating"]
   }, {
-    "start": "7/10/1985",
+    "start": "7/10/1985 00:00:00 GMT-0600",
     "title": "Keating contributes to a political action committee (PAC) that Glenn is the spokesman for",
     "description": "$200,000 is donated",
     "tags": ["Keating", "Glenn"]
   }, {
-    "start": "12/1/1985",
+    "start": "12/1/1985 00:00:00 GMT-0600",
     "title": "Keating attempts to hire Gray out of regulatory post (as FHLBB Chairman)",
     "description": "Gray reports Keating to the Justice Department",
     "tags": ["Keating", "Gray"]
   }, {
-    "start": "1/1/1986",
+    "start": "1/1/1986 00:00:00 GMT-0600",
     "title": "Keating becomes \"significant\" contributor to Cranston",
     "description": "In aide Jacobson's opinion",
     "tags": ["Keating", "Cranston", "Jacobson"]
   }, {
-    "start": "1/1/1986",
+    "start": "1/1/1986 00:00:00 GMT-0600",
     "title": "Keating gives money to McCain's 1st Senate campaign",
     "description": "Keating offers to raise more, but McCain declines. Over four campaigns, Keating will contribute $4,000 personally with $112,000 coming from his family and friends",
     "tags": ["Keating", "McCain"]
   }, {
-    "start": "1/30/1986",
+    "start": "1/30/1986 00:00:00 GMT-0600",
     "title": "McCain sends letters to White Rouse Chief of Staff Baker and Treasury Secretary Regan containing copies of his 01/04/1985 letter",
     "description": "He requests their assistance in the \"Direct Investment\" matter",
     "tags": ["McCain"]
   }, {
-    "start": "2/1/1986",
+    "start": "2/1/1986 00:00:00 GMT-0600",
     "title": "Jacobson starts $300,000 line of credit from Lincoln",
     "description": "To finance Cranston's '86 re-election campaign. Cranston faced a campaign debt of $2 million from his '84 presidential campaign and had to quickly gear up for an expensive and competitive re-election battle in '86",
     "tags": ["Lincoln", "Jacobson", "Cranston"]
   }, {
-    "start": "2/2/1986",
+    "start": "2/2/1986 00:00:00 GMT-0600",
     "title": "Keating again contributes to a political action committee (PAC) that Glenn is the spokesman for",
     "description": "$100,000 is donated",
     "tags": ["Keating", "Glenn"]
   }, {
-    "start": "3/15/1986",
+    "start": "3/15/1986 00:00:00 GMT-0600",
     "title": "Riegle meets Keating at the opening of his Detroit Pontchartrain Hotel",
     "description": "Glenn tells Riegle to go and meet Keating as a potential funder. They do not talk about Lincoln's problems",
     "tags": ["Riegle", "Glenn", "Keating"]
   }, {
-    "start": "4/2/1986",
+    "start": "4/2/1986 00:00:00 GMT-0600",
     "title": "Keating asks Glenn to support nomination of Lee Henkel to Bank Board",
     "description": "Glenn refuses",
     "tags": ["Keating, Glenn", "FHLBB", "Henkel"]
   }, {
-    "start": "4/29/1986",
+    "start": "4/29/1986 00:00:00 GMT-0600",
     "title": "Media: Earnings, Revenue Rise 30% for Lincoln Savings",
     "tags": ["Media", "Lincoln"]
   }, {
-    "start": "5/11/1986",
+    "start": "5/11/1986 00:00:00 GMT-0600",
     "title": "Media: FHLBB's Gray Fights On; S&L Officials No Longer Pressing for His Resignation",
     "description": "\"The chairman of the Federal Home Loan Bank Board, ankle-deep in rumors that he would announce his resignation, stood at a lectern in Dallas last November while looking across an audience of the thrift industry's top executives.",
     "tags": ["Media", "Gray"]
   }, {
-    "start": "6/1/1986",
+    "start": "6/1/1986 00:00:00 GMT-0600",
     "title": "DeConcini recommends Henkel to be on the FHLBB",
     "description": "Keating suggests him, DeConcini writes Riegle about it. Sedlmayr notes these requests are unusual",
     "tags": ["DeConcini, Keating, Riegle, Sedlmayr", "FHLBB", "Henkel"]
   }, {
-    "start": "6/2/1986",
+    "start": "6/2/1986 00:00:00 GMT-0600",
     "title": "Keating asks Glenn to support the nomination of Daniel Manion",
     "description": "Glenn refuses",
     "tags": ["Keating", "Glenn", "FHLBB"]
   }, {
-    "start": "7/16/1986",
+    "start": "7/16/1986 00:00:00 GMT-0600",
     "title": "Keating, Grogan, and Riegle meet briefly re: ACC",
     "description": "ACC is Keating's primary corporation and the parent company of Lincoln",
     "tags": ["Riegle, Keating", "Grogan", "Lincoln"]
   }, {
-    "start": "7/21/1986",
+    "start": "7/21/1986 00:00:00 GMT-0600",
     "title": "McCain {writes} Gray about delaying implementation of \"Direct Investment\" regulations",
     "tags": ["McCain", "Gray"],
     "link": "/files/exhibits/McCain/%236%20McCain%20to%20Gray%2007-21-86.pdf"
   }, {
-    "start": "7/27/1986",
+    "start": "7/27/1986 00:00:00 GMT-0600",
     "title": "Media: EARNINGS; Lincoln S&L Reports 50% Income Drop",
     "description": "\"Lincoln Savings & Loan Assn. reported that its net income for the second quarter fell more than 50% to $11.9 million from $24.1 million in the same quarter last year. Revenues in the quarter rose 38.7% to $193.8 million from $139.7 million in last.",
     "tags": ["Media", "Lincoln"]
   }, {
-    "start": "7/31/1986",
+    "start": "7/31/1986 00:00:00 GMT-0600",
     "title": "Keating sends {letter} to McCain disparaging Gray",
     "description": "Marked \"CONFIDENTIAL\". Calls the FHLBB, under Gray, \"a 'Mad Dog' turned loose in a police state effort",
     "tags": ["McCain, Keating", "Gray", "FHLBB"],
     "link": "/files/exhibits/Lincoln/%235%20Keating%20to%20McCain%2007-31-86.pdf"
   }, {
-    "start": "8/1/1986",
+    "start": "8/1/1986 00:00:00 GMT-0600",
     "title": "DeConcini receives checks raised by Keating",
     "description": "Totals $16,000. DeConcini says he is aware of these only after the '86 election",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "8/20/1986",
+    "start": "8/20/1986 00:00:00 GMT-0600",
     "title": "Keating, Grogan, and Riegle meet re: Henkel nomination",
     "tags": ["Riegle, Keating, Grogan", "FHLBB", "Henkel"]
   }, {
-    "start": "9/1/1986",
+    "start": "9/1/1986 00:00:00 GMT-0600",
     "title": "Sedlmayr becomes aware of Keating's trouble with the Bank Board",
     "description": "Because of media on the matter",
     "tags": ["Sedlmayr"]
   }, {
-    "start": "9/15/1986",
+    "start": "9/15/1986 00:00:00 GMT-0600",
     "title": "Media: FHLBB Officials' Special Treatment Probed",
     "description": "\"Four top officials of the Federal Home Loan Bank Board are receiving special treatment that gives two of them salaries that are thousands of dollars above the federal pay cap and provides the other two with job security unavailable to most top officials.",
     "tags": ["Media", "FHLBB"]
   }, {
-    "start": "9/19/1986",
+    "start": "9/19/1986 00:00:00 GMT-0600",
     "title": "Gray releases {statement} about Keating's attempts to hire Gray out of FHLBB role",
     "description": "Offered him \"some sort of public relations job at Lincoln",
     "tags": ["Gray", "Keating", "Lincoln"],
     "link": "/files/exhibits/Gray/%231%20Gray%20Statement%2009-19-86.pdf"
   }, {
-    "start": "9/22/1986",
+    "start": "9/22/1986 00:00:00 GMT-0600",
     "title": "Gray sends {letter} to Cirona requesting information on Lincoln review",
     "description": "Because of The Washington Post article that \"'the Bank Board is harassing'\" the company",
     "tags": ["Gray", "SF Regulators", "Lincoln"],
     "link": "/files/exhibits/Gray/%232%20Gray%20to%20Cirona%2009-22-86.pdf"
   }, {
-    "start": "9/25/1986",
+    "start": "9/25/1986 00:00:00 GMT-0600",
     "title": "{Cirona Report} is issued to Gray as response to his earlier letter",
     "description": "Outlines in great detail all the problems that the FHLB-SF had with ACC. Contentious because Gray's statement at the first meeting of \"I don't know anything\" is a sham",
     "tags": ["SF Regulators", "Gray"],
     "link": "/files/exhibits/Gray/%233%20Cirona%20to%20Gray%2009-25-86.pdf"
   }, {
-    "start": "11/1/1986",
+    "start": "11/1/1986 00:00:00 GMT-0600",
     "title": "FSLIC recapitalization bill is stopped in Congress by Speaker Wright",
     "description": "Signals to Bank Board that Congressional consent will be key to future regulatory efforts",
     "tags": ["Wright", "FHLBB"]
   }, {
-    "start": "11/4/1986",
+    "start": "11/4/1986 00:00:00 GMT-0600",
     "title": "Jacobson meets with Keating on Election Night",
     "tags": ["Jacobson", "Keating"]
   }, {
-    "start": "11/4/1986",
+    "start": "11/4/1986 00:00:00 GMT-0600",
     "title": "Media: Lincoln Savings Reports 70% Gain in Profit for Third Quarter",
     "tags": ["Media", "Lincoln"]
   }, {
-    "start": "12/3/1986",
+    "start": "12/3/1986 00:00:00 GMT-0600",
     "title": "{Media:} Gray Reimbursed Home Loan Banks for Wife's Travels",
     "description": "\"Federal Home Loan Bank Board Chairman Edwin J. Gray on Tuesday made public hundreds of pages of his expense and travel records for meetings ranging from Florida to Hawaii, along with a memo saying that the furor over payment of his wife's travel expenses should subside as he always repaid voluntarily.",
     "tags": ["Media", "Gray"],
     "link": "/files/evidence/6"
   }, {
-    "start": "12/8/1986",
+    "start": "12/8/1986 00:00:00 GMT-0600",
     "title": "Media: Bank Board Lived Well Off S&Ls; Industry Picked Up Tab for Cruises, Gifts, Alcohol, Limousines - Bank Board's Expenses Disclosed",
     "tags": ["Media", "FHLBB"]
   }, {
-    "start": "12/11/1986",
+    "start": "12/11/1986 00:00:00 GMT-0600",
     "title": "DeConcini sends Sedlmayr memo about putting pressure on Gray",
     "description": "Evidence that they want to get rid of him well before the April meetings",
     "tags": ["DeConcini", "Sedlmayr", "Gray"]
   }, {
-    "start": "12/16/1986",
+    "start": "12/16/1986 00:00:00 GMT-0600",
     "title": "Sedlmayr advises DeConcini to \"stay out of\" the Gray/Keating feud",
     "description": "Via memo",
     "tags": ["DeConcini", "Sedlmayr"]
   }, {
-    "start": "1/2/1987",
+    "start": "1/2/1987 00:00:00 GMT-0600",
     "title": "Jacobson sends {memo} to Cranston re: legislative matters of contributors",
     "description": "This includes Keating",
     "tags": ["Jacobson", "Cranston"],
     "link": "/files/evidence/16"
   }, {
-    "start": "1/7/1987",
+    "start": "1/7/1987 00:00:00 GMT-0600",
     "title": "Media: Bank Board Appointee Faces Conflict Charge; Proxmire Opposes Henkel for S&L Ties; Bank Board Appointee Faces Conflict Charge by Proxmire",
     "description": "\"Lee Henkel, who joined the Federal Home Loan Bank Board two months ago via a recess appointment by President Reagan, is embroiled in a conflict-of-interest charge that lies at the heart of a fight over control of the Bank Board and ultimately the future of the ailing S&L industry.",
     "tags": ["Media", "FHLBB", "Henkel"]
   }, {
-    "start": "1/8/1987",
+    "start": "1/8/1987 00:00:00 GMT-0600",
     "title": "Media: Henkel Denies Conflict in His S&L Proposal",
     "description": "\"At Mr. Henkel's first Board meeting, on Dec. 18th, the board rejected a proposal by its Chairman, Edwin J. Gray, to extend for two years a rule limiting a thrift institutions' direct real estate investments to 10 percent of its assets... Mr. Henkel then proposed a more liberal plan that included exempting certain thrift institutions from the retroactive impact of the rule. His plan was also voted down. After the meeting, staff members said privately that only two institutions, one of them Lincoln Savings, would have benefited from the Henkel plan.",
     "tags": ["Media", "Henkel", "Lincoln"]
   }, {
-    "start": "1/16/1987",
+    "start": "1/16/1987 00:00:00 GMT-0600",
     "title": "Henkel sends {letter} to Proxmire defending his actions on the FHLBB",
     "description": "\"I made the proposal in good faith, believing it to be a general industry problem.\" \"Not public info.\" written on the first page",
     "tags": ["Henkel", "FHLBB"],
     "link": "/files/exhibits/Henkel/%232%20_Not%20Public%20Info._%20Henkel%20to%20Proxmire%2001-16-87.pdf"
   }, {
-    "start": "1/28/1987",
+    "start": "1/28/1987 00:00:00 GMT-0600",
     "title": "Riegle meets with Keating and Grogan in Washington",
     "description": "Fundraising event on Riegle's behalf is discussed (possibly at the Pontchartrain Hotel, where Keating was investing in another tower)",
     "tags": ["Keating", "Grogan", "Riegle"]
   }, {
-    "start": "1/28/1987",
+    "start": "1/28/1987 00:00:00 GMT-0600",
     "title": "Glenn meets with Atchison to discuss investigation of Keating",
     "description": "Glenn sets this up to substantiate Lincoln's claims that regulators are being abusive and that Glenn should talk with them",
     "tags": ["Glenn", "Atchison"]
   }, {
-    "start": "2/5/1987",
+    "start": "2/5/1987 00:00:00 GMT-0600",
     "title": "McCain goes to Riegle's office to talk about the Gray/Keating feud",
     "tags": ["McCain", "Riegle"]
   }, {
-    "start": "2/6/1987",
+    "start": "2/6/1987 00:00:00 GMT-0600",
     "title": "Riegle's staff drafts a {memo} for him detailing a fundraising opportunity with Keating",
     "description": "Expect to raise $100,000 to $125,000",
     "tags": ["Riegle", "Keating"],
     "link": "/files/exhibits/Riegle/%234%20Gottlieb%20Office%20Memo%20Keating%20Fundraiser%2002-06-87.pdf"
   }, {
-    "start": "2/22/1987",
+    "start": "2/22/1987 00:00:00 GMT-0600",
     "title": "Media: Lincoln S&L Holds Position as No. 2 in Orange County",
     "tags": ["Media", "Lincoln"]
   }, {
-    "start": "2/24/1987",
+    "start": "2/24/1987 00:00:00 GMT-0600",
     "title": "America Votes - a Cranston-affiliated PAC advocating voter participation - discloses Keating donated $100,000 in seed funding",
     "description": "Check sent on Mar. 3rd. Jacobson keeps Grogan up-to-date with PAC's activity",
     "tags": ["Keating, Jacobson", "Grogan", "Cranston"]
   }, {
-    "start": "2/25/1987",
+    "start": "2/25/1987 00:00:00 GMT-0600",
     "title": "Letter sent to Jacobson from Grogan re: desire for Gray's dismissal",
     "description": "Grogan wants their advice on the matter. Jacobson says she doesn't remember seeing it",
     "tags": ["Grogan", "Jacobson"]
   }, {
-    "start": "2/25/1987",
+    "start": "2/25/1987 00:00:00 GMT-0600",
     "title": "Grogan sends {letter} to Riegle, Jacobson, and Jordan asking for advice about a Senate \"Petition for Disqualification\" for Gray",
     "tags": ["Grogan, Jacobson", "Jordan", "Riegle"],
     "link": "/files/exhibits/Riegle/%235%20Grogan%20to%20Gottlieb%20Gray%20Recusal%2002-25-87.pdf"
   }, {
-    "start": "2/25/1987",
+    "start": "2/25/1987 00:00:00 GMT-0600",
     "title": "Lincoln's lawyers release {letter} defending actions of Henkel",
     "description": "\"The problems of the thrift industry did not occur on Mr. Henkel's watch",
     "tags": ["Lincoln", "Henkel"],
     "link": "/files/exhibits/Henkel/%231%20Lincoln%20Defending%20Henkel%2002-25-87.pdf"
   }, {
-    "start": "2/26/1987",
+    "start": "2/26/1987 00:00:00 GMT-0600",
     "title": "Grogan and Atchison go to Washington to lobby support for \"Direct Investment\" deregulation.",
     "description": "Meets with McCain and Riegle",
     "tags": ["Grogan", "Atchison McCain", "Riegle"]
   }, {
-    "start": "3/1/1987",
+    "start": "3/1/1987 00:00:00 GMT-0600",
     "title": "Lincoln files lawsuit against FHLBB \"Direct Investment\" laws",
     "description": "Lincoln loses",
     "tags": ["Lincoln", "FHLBB"]
   }, {
-    "start": "3/1/1987",
+    "start": "3/1/1987 00:00:00 GMT-0600",
     "title": "Keating calls DeConcini and asks him to set up meeting re: issues with Gray",
     "description": "Not the only time DeConcini had been contacted re: Gray. DeConcini thinks it was a good idea",
     "tags": ["Keating", "DeConcini"]
   }, {
-    "start": "3/1/1987",
+    "start": "3/1/1987 00:00:00 GMT-0600",
     "title": "Riegle talks to McCain on Senate floor re: Keating's issues",
     "description": "They go to Riegle's office after to discuss",
     "tags": ["Riegle", "McCain"]
   }, {
-    "start": "3/2/1987",
+    "start": "3/2/1987 00:00:00 GMT-0600",
     "title": "AZ League of Savings and Loans Association issues complaint to VanPaasschen re: \"Direct Investment\" laws",
     "tags": ["VanPaasschen"]
   }, {
-    "start": "3/6/1987",
+    "start": "3/6/1987 00:00:00 GMT-0600",
     "title": "Riegle meets with Gray re: FSLIC recapitalization bill",
     "description": "Secretary says Gray's office called Riegle",
     "tags": ["Riegle", "Gray"]
   }, {
-    "start": "3/6/1987",
+    "start": "3/6/1987 00:00:00 GMT-0600",
     "title": "Gray meets with Riegle to lobby for \"Direct Investment\" regulation",
     "description": "At the end of the meeting, Riegle tells Gray that there are senators that want to meet with him about the \"Direct Investment\" laws. According to Gray, Riegle says: \"You'll be getting a call",
     "tags": ["Riegle", "Gray"]
   }, {
-    "start": "3/6/1987",
+    "start": "3/6/1987 00:00:00 GMT-0600",
     "end": "3/8/1987",
     "durationEvent": true,
     "title": "Riegle visits Lincoln in Phoenix",
     "description": "At the end of the visit, Riegle says he will try to set up a meeting with Gray. He also offers that it would help to have constituent senators present. During the later investigation, Riegle says that the trip to Phoenix was on the pretense of another engagement",
     "tags": ["Riegle", "Lincoln", "Keating"]
   }, {
-    "start": "3/7/1987",
+    "start": "3/7/1987 00:00:00 GMT-0600",
     "title": "While Keating and Riegle meet privately, Grogan works on fundraiser that Keating proposed for Riegle",
     "description": "Held at the Pontchartrain Hotel",
     "tags": ["Keating", "Riegle", "Grogan"]
   }, {
-    "start": "3/10/1987",
+    "start": "3/10/1987 00:00:00 GMT-0600",
     "title": "Riegle votes against cutting S&L regulatory funding",
     "tags": ["Riegle"]
   }, {
-    "start": "3/13/1987",
+    "start": "3/13/1987 00:00:00 GMT-0600",
     "title": "Arthur Young (Atchison's) letter sent to Riegle by Atchison",
     "tags": ["Atchison", "Riegle"]
   }, {
-    "start": "3/13/1987",
+    "start": "3/13/1987 00:00:00 GMT-0600",
     "title": "{Media:} Bank Board Clears Henkel of Conflict Charge; Reagan Nominee Accused of Proposing Self-Serving Amendment",
     "description": "\"The Federal Home Loan Bank Board has cleared Board member Lee Henkel of conflict-of-interest charges concerning a California savings and loan institution the Federal agency regulates, according to an internal bank board document.",
     "tags": ["Media", "Henkel"],
     "link": "/files/evidence/3"
   }, {
-    "start": "3/16/1987",
+    "start": "3/16/1987 00:00:00 GMT-0600",
     "title": "Grogan attends meeting with Cranston and Riegle",
     "description": "Talk about America Votes",
     "tags": ["Cranston", "Riegle", "Grogan"]
   }, {
-    "start": "3/16/1987",
+    "start": "3/16/1987 00:00:00 GMT-0600",
     "end": "3/17/1987",
     "durationEvent": true,
     "title": "DeConcini's office receives Atchison letter and other evidence of mistreatment from ACC",
     "description": "Atchison letter was originally sent to Riegle",
     "tags": ["DeConcini", "Atchison", "Lincoln"]
   }, {
-    "start": "3/17/1987",
+    "start": "3/17/1987 00:00:00 GMT-0600",
     "title": "Arthur Young (Atchison's) letter sent to McCain's office",
     "description": "VanPaasschen unaware of office receiving this letter. Not clear who sent it",
     "tags": ["Atchison", "McCain", "VanPaasschen"]
   }, {
-    "start": "3/17/1987",
+    "start": "3/17/1987 00:00:00 GMT-0600",
     "title": "ACC sends DeConcini's office information re: regulatory problems and ACC's responses",
     "description": "Includes memo entitled \"Talking Points for Meeting with Ed Gray.\" Written on it: \"WON'T USE",
     "tags": ["Lincoln", "DeConcini"]
   }, {
-    "start": "3/17/1987",
+    "start": "3/17/1987 00:00:00 GMT-0600",
     "title": "DeConcini talks to Riegle and tells him he is having trouble with Gray",
     "description": "Asks him if he will help. Riegle later says to have meeting with Gray",
     "tags": ["DeConcini", "Riegle"]
   }, {
-    "start": "3/17/1987",
+    "start": "3/17/1987 00:00:00 GMT-0600",
     "title": "Grogan meets with Riegle and asks for invite from McCain/DeConcini to attend meeting with Gray",
     "description": "Allegedly where Riegle tells Grogan to have DeConcini invite him",
     "tags": ["Riegle", "Grogan"]
   }, {
-    "start": "3/19/1987",
+    "start": "3/19/1987 00:00:00 GMT-0600",
     "title": "Sedlmayr prepares memo re: ACC's concerns for DeConcini",
     "description": "ACC had sent DeConcini's office a bunch of material; Sedlmayr summarizes and adds editorial to it for DeConcini (believes she did this before meeting with McCain)",
     "tags": ["Sedlmayr", "DeConcini"]
   }, {
-    "start": "3/19/1987",
+    "start": "3/19/1987 00:00:00 GMT-0600",
     "title": "McCain, DeConcini, VanPaasschen, and Sedlmayr meet in McCain's office re: Keating and Gray",
     "description": "Discussed Keating's problems with audit and whether a meeting with Gray would be productive. McCain doesn't commit to DeConcini's suggestion to go to SF Regulators. DeConcini offers to go to Gray's office right there and then. McCain tells VanPaasschen afterwards he thinks that's inappropriate",
     "tags": ["McCain, DeConcini", "VanPaasschen", "Sedlmayr"]
   }, {
-    "start": "3/19/1987",
+    "start": "3/19/1987 00:00:00 GMT-0600",
     "title": "VanPaasschen advises McCain that meeting with Gray and the SF Regulators would be improper",
     "tags": ["VanPaasschen", "McCain"]
   }, {
-    "start": "3/19/1987",
+    "start": "3/19/1987 00:00:00 GMT-0600",
     "title": "DeConcini receives summary of Keating's positions via \"Schedule\" {memo}",
     "description": "Summarized by Sedlmayr",
     "tags": ["DeConcini", "Sedlmayr"],
     "link": "/files/exhibits/DeConcini/%239%20Sedlmayr-DeConcini%2003-19-87.pdf"
   }, {
-    "start": "3/20/1987",
+    "start": "3/20/1987 00:00:00 GMT-0600",
     "title": "DeConcini calls Gray and asks if he will meet with the senators re: Lincoln's problems with the Bank Board",
     "description": "Gray says he will be happy to and they set the time. \"No aides\" was not mentioned in the conversation",
     "tags": ["DeConcini", "Gray"]
   }, {
-    "start": "3/20/1987",
+    "start": "3/20/1987 00:00:00 GMT-0600",
     "title": "Petition filed to recuse Gray from the Bank Board",
     "description": "Filed by Lincoln",
     "tags": ["Gray", "Lincoln"]
   }, {
-    "start": "3/23/1987",
+    "start": "3/23/1987 00:00:00 GMT-0600",
     "title": "Fundraiser by Keating for Riegle held at his Pontchartrain Hotel",
     "tags": ["Riegle", "Keating"]
   }, {
-    "start": "3/23/1987",
+    "start": "3/23/1987 00:00:00 GMT-0600",
     "title": "VanPaasschen has long conversation with Atchison about the legitimacy of his letter",
     "description": "Ends conversation believing his sincerity",
     "tags": ["VanPaasschen", "Atchison"]
   }, {
-    "start": "3/23/1987",
+    "start": "3/23/1987 00:00:00 GMT-0600",
     "title": "Sedlmayr tells VanPaasschen that Keating called McCain a \"wimp\" in conversation with DeConcini",
     "tags": ["Sedlmayr, VanPaasschen, McCain", "Keating", "DeConcini"]
   }, {
-    "start": "3/24/1987",
+    "start": "3/24/1987 00:00:00 GMT-0600",
     "title": "DeConcini meets with Keating",
     "description": "Discuss upcoming meeting with Gray",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "3/24/1987",
+    "start": "3/24/1987 00:00:00 GMT-0600",
     "title": "Keating and McCain meet in McCain's office",
     "description": "McCain tells Keating he won't intervene for him. The two have a falling out",
     "tags": ["McCain", "Keating"]
   }, {
-    "start": "3/24/1987",
+    "start": "3/24/1987 00:00:00 GMT-0600",
     "title": "VanPaasschen sends {memo} to McCain that supports Arthur Young letter (after meeting with Keating)",
     "description": "Memo includes information that she got from Atchison. According to McCain, this research happens during the meeting with Keating (when McCain says he won't talk to Gray for him)",
     "tags": ["VanPaasschen, McCain", "Atchison", "Keating"],
     "link": "/files/exhibits/McCain/%238%20McCain%20Office%20Memo%2003-24-87.pdf"
   }, {
-    "start": "3/24/1987",
+    "start": "3/24/1987 00:00:00 GMT-0600",
     "title": "McCain terminates relationship with Keating",
     "tags": ["McCain", "Keating"]
   }, {
-    "start": "3/27/1987",
+    "start": "3/27/1987 00:00:00 GMT-0600",
     "title": "Riegle votes again on the Senate floor to protect funding for S&L regulators",
     "tags": ["Riegle"]
   }, {
-    "start": "3/27/1987",
+    "start": "3/27/1987 00:00:00 GMT-0600",
     "title": "McCain tells VanPaasschen that there is discussion of four senators meeting with Gray",
     "description": "Names the four senators that will be involved; says DeConcini agreed to discussion points",
     "tags": ["VanPaasschen", "McCain", "DeConcini"]
   }, {
-    "start": "3/31/1987",
+    "start": "3/31/1987 00:00:00 GMT-0600",
     "title": "Media: Justice Asked to Probe Bank Board Member; Justice Asked to Probe Henkel",
     "description": "\"The Justice Department has been asked to determine if a top savings and loan regulator used his government office to try to benefit an S&L [Lincoln] that has lent him millions of dollars.",
     "tags": ["Media", "Henkel", "Lincoln"]
   }, {
-    "start": "4/1/1987",
+    "start": "4/1/1987 00:00:00 GMT-0600",
     "title": "Sedlmayr sends DeConcini {memo} in preparation for April 2nd meeting",
     "description": "At request of DeConcini",
     "tags": ["Sedlmayr", "DeConcini"],
     "link": "/files/exhibits/DeConcini/%2310%20Sedlmayr-DeConcini%20Memo%2004-01-87.pdf"
   }, {
-    "start": "4/1/1987",
+    "start": "4/1/1987 00:00:00 GMT-0600",
     "title": "Date when McCain says he finds out other senators will be at the April 2nd meeting with Gray",
     "tags": ["McCain"]
   }, {
-    "start": "4/2/1987",
+    "start": "4/2/1987 00:00:00 GMT-0600",
     "title": "{Media:} Henkel Resigns FHLBB Post, Criticizes Justice Dept. Probe [of Relationship With Lincoln]; Henkel Quits Bank Board",
     "tags": ["Media, Henkel", "FHLBB", "Lincoln"],
     "link": "/files/evidence/7"
   }, {
-    "start": "4/2/1987",
+    "start": "4/2/1987 00:00:00 GMT-0600",
     "title": "Meeting 1: McCain, DeConcini, Cranston, and Glenn meet with Gray in DeConcini's office",
     "description": "First of the Keating Five meetings, VanPaasschen sits outside. Riegle is not in attendance. According to Gray, Riegle first summonsed him to this meeting",
     "tags": ["McCain, DeConcini, Cranston, Glenn, Riegle", "Gray", "VanPaasschen"]
   }, {
-    "start": "4/2/1987",
+    "start": "4/2/1987 00:00:00 GMT-0600",
     "title": "McCain receives {memo} outlining two points he can talk about in meeting with Gray (from VanPaasschen)",
     "tags": ["VanPaasschen", "McCain"],
     "link": "/files/exhibits/McCain/%2311%20Memo,%20VanPaasschen%20to%20McCain,%20Overview%20of%20AAC%20Involvement%2004-14-89.pdf"
   }, {
-    "start": "4/3/1987",
+    "start": "4/3/1987 00:00:00 GMT-0600",
     "title": "Keating sends \"Schedule\" memo to other senators",
     "tags": ["Keating, Riegle, McCain", "Glenn", "Cranston"]
   }, {
-    "start": "4/3/1987",
+    "start": "4/3/1987 00:00:00 GMT-0600",
     "title": "Grogan goes to Washington after the first meeting to talk to all the senators and \"keep the team together",
     "description": "Keating tells him to \"keep the team together\" and tell all the senators how important attendance at the second meeting is to Keating",
     "tags": ["Grogan, Keating, DeConcini, Glenn, Cranston", "McCain", "Riegle"]
   }, {
-    "start": "4/3/1987",
+    "start": "4/3/1987 00:00:00 GMT-0600",
     "title": "Gray calls DeConcini to tell him that the SF Regulators will be available to meet with the senators on the 9th",
     "description": "DeConcini's office calls the other senators' schedulers to let them know",
     "tags": ["Gray, DeConcini, Glenn, Cranston, McCain", "Riegle", "SF Regulators"]
   }, {
-    "start": "4/4/1987",
+    "start": "4/4/1987 00:00:00 GMT-0600",
     "title": "Riegle tells DeConcini to ask Sedlmayr not to contact his office re: meetings with Gray",
     "description": "Riegle's scheduler said he knew nothing about Riegle's involvement with the Gray meeting",
     "tags": ["Riegle", "DeConcini", "Sedlmayr"]
   }, {
-    "start": "4/4/1987",
+    "start": "4/4/1987 00:00:00 GMT-0600",
     "title": "Sedlmayr calls friend in Riegle's office to find out about his involvement in the matter",
     "description": "The friend says he knows nothing about the meeting. DeConcini tells Sedlmayr that Riegle asked her not to contact his office about the matter",
     "tags": ["Sedlmayr", "DeConcini", "Riegle"]
   }, {
-    "start": "4/5/1987",
+    "start": "4/5/1987 00:00:00 GMT-0600",
     "title": "DeConcini calls Gray and tells him the senators do want to meet with the SF Regulators",
     "description": "Gray sets up the meeting",
     "tags": ["DeConcini", "Gray", "SF Regulators"]
   }, {
-    "start": "4/9/1987",
+    "start": "4/9/1987 00:00:00 GMT-0600",
     "title": "Sedlmayr drafts {letter} to Riegle inviting him to second meeting, from DeConcini and McCain",
     "description": "Letter is only signed by DeConcini; Sedlmayr later testified she thought the letter was unusual as it was her impression that the meeting was Riegle's idea",
     "tags": ["DeConcini, Riegle", "McCain", "Sedlmayr"],
     "link": "/files/evidence/18"
   }, {
-    "start": "4/9/1987",
+    "start": "4/9/1987 00:00:00 GMT-0600",
     "title": "Meeting 2: Keating Five meet with SF Regulators in DeConcini's office",
     "description": "McCain only asks about length of exam and fairness; Cranston attends only part of meeting due to business on Senate floor",
     "tags": ["DeConcini, McCain, Riegle, Cranston", "Glenn", "SF Regulators"]
   }, {
-    "start": "4/9/1987",
+    "start": "4/9/1987 00:00:00 GMT-0600",
     "title": "Sedlmayr meets with Grogan on the day of the April 9th meeting",
     "tags": ["Sedlmayr", "Grogan"]
   }, {
-    "start": "4/10/1987",
+    "start": "4/10/1987 00:00:00 GMT-0600",
     "title": "Both McCain and Glenn end all contact with Keating and SF Regulators",
     "tags": ["McCain, Glenn", "Keating", "SF Regulators"]
   }, {
-    "start": "4/10/1987",
+    "start": "4/10/1987 00:00:00 GMT-0600",
     "end": "4/14/1987",
     "durationEvent": true,
     "title": "Jordan visits ACC (to look at their operation and land valuation, etc.)",
     "description": "Invited by Grogan, paid for by CA Thrift and Loan who she was making a speech for",
     "tags": ["Jordan", "Lincoln", "Grogan"]
   }, {
-    "start": "4/10/1987",
+    "start": "4/10/1987 00:00:00 GMT-0600",
     "title": "DeConcini calls Keating and tells him he can't expect much from the Bank Board",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "4/14/1987",
+    "start": "4/14/1987 00:00:00 GMT-0600",
     "title": "Gray sends Riegle copy of Black Transcript",
     "tags": ["Gray", "Riegle"]
   }, {
-    "start": "4/14/1987",
+    "start": "4/14/1987 00:00:00 GMT-0600",
     "title": "Riegle ends all contact with Keating and SF Regulators",
     "description": "Except to later return contributions raised by Keating in early 1988",
     "tags": ["Riegle", "Keating", "SF Regulators"]
   }, {
-    "start": "4/25/1987",
+    "start": "4/25/1987 00:00:00 GMT-0600",
     "title": "Riegle {calls} a New York City security company Gray is interested in a job with and gives a positive opinion",
     "tags": ["Gray", "Riegle"],
     "link": "/files/exhibits/Riegle/%231%20Riegle%20Recommends%20Gray%2004-30-87.pdf"
   }, {
-    "start": "5/1/1987",
+    "start": "5/1/1987 00:00:00 GMT-0600",
     "title": "Exam Report on Lincoln issued by SF Regulators",
     "tags": ["SF Regulators", "Lincoln"]
   }, {
-    "start": "7/1/1987",
+    "start": "7/1/1987 00:00:00 GMT-0600",
     "title": "Gray's term on the Bank Board ends",
     "description": "M. Danny Wall appointed new Chairman",
     "tags": ["Gray", "FHLBB"]
   }, {
-    "start": "7/1/1987",
+    "start": "7/1/1987 00:00:00 GMT-0600",
     "title": "Keating offers to raise another $150,000 for Glenn",
     "description": "Glenn declines",
     "tags": ["Keating", "Glenn"]
   }, {
-    "start": "7/15/1987",
+    "start": "7/15/1987 00:00:00 GMT-0600",
     "title": "Keating sends Grogan infamous \"Get Black\" {letter}",
     "description": "Claims that if Grogan \"can't get Wright and Congress to get Black - kill him dead - [he] ought to retire.",
     "tags": ["Grogan", "Keating"],
     "link": "/files/exhibits/Lincoln/%234%20_Get%20Black_%20Memo%2007-15-87.jpeg"
   }, {
-    "start": "7/29/1987",
+    "start": "7/29/1987 00:00:00 GMT-0600",
     "title": "Media: S&L Chief Says Bank Board Leaked Data to Discredit Him; S&L Executive Sues Bank Board",
     "description": "\"A California savings and loan executive who has feuded for years with the Federal Home Loan Bank Board has filed suit accusing the agency of leaking confidential financial information to discredit him and ruin his business.",
     "tags": ["Media", "Keating", "FHLBB"]
   }, {
-    "start": "9/24/1987",
+    "start": "9/24/1987 00:00:00 GMT-0600",
     "title": "Jacobson schedules {meeting} with Keating and Cranston for this date",
     "description": "Jacobson says Keating is happy about Wall being appointed the new FHLBB Chairman. She then suggests that Cranston \"should ask Keating for $250,000",
     "tags": ["Jacobson", "Cranston", "Keating"],
     "link": "/files/evidence/25"
   }, {
-    "start": "9/28/1987",
+    "start": "9/28/1987 00:00:00 GMT-0600",
     "title": "Jordan hears Bank Board is making a criminal referral to the Justice Department re: Lincoln",
     "description": "Reads it in \"National Thrift News",
     "tags": ["Jordan", "FHLBB", "Lincoln"]
   }, {
-    "start": "12/1/1987",
+    "start": "12/1/1987 00:00:00 GMT-0600",
     "title": "Glenn sets up a luncheon between Keating, Wright, and himself",
     "tags": ["Glenn", "Wright", "Keating"]
   }, {
-    "start": "1/12/1988",
+    "start": "1/12/1988 00:00:00 GMT-0600",
     "title": "Jacobson schedules dinner for Cranston and Keating",
     "description": "Keating surprises Cranston with $500,000 in checks",
     "tags": ["Cranston", "Keating", "Jacobson"]
   }, {
-    "start": "2/1/1988",
+    "start": "2/1/1988 00:00:00 GMT-0600",
     "title": "\"National Thrift News\" ranks Lincoln 39th of top 100 S&Ls in net worth",
     "tags": ["Lincoln"]
   }, {
-    "start": "2/22/1988",
+    "start": "2/22/1988 00:00:00 GMT-0600",
     "title": "Riegle's staff drafts a {memo} for him detailing another fundraising opportunity with Keating",
     "description": "Expect to raise $100,000. \"We know Keating can produce this",
     "tags": ["Riegle", "Keating"],
     "link": "/files/exhibits/Riegle/%233%20Keating%20as%20Riegle%20Contributor%2002-22-88.pdf"
   }, {
-    "start": "3/1/1988",
+    "start": "3/1/1988 00:00:00 GMT-0600",
     "title": "Keating sends {letter} to Cranston's son Kim thanking him and Cranston for meeting with ACC staff in Phoenix earlier that month",
     "description": "Notes that Keating would like to meet again with Kim in either Hong Kong or Phoenix",
     "tags": ["Cranston", "Keating"],
     "link": "/files/exhibits/Cranston/%233%20Keating%20Lobbying%20to%20Kim%2003-01-88.pdf"
   }, {
-    "start": "3/1/1988",
+    "start": "3/1/1988 00:00:00 GMT-0600",
     "title": "Sedlmayr receives Black Transcript",
     "tags": ["Sedlmayr"]
   }, {
-    "start": "3/10/1988",
+    "start": "3/10/1988 00:00:00 GMT-0600",
     "title": "Sedlmayr sends DeConcini {memo} defending actions he has taken on Lincoln's behalf",
     "description": "In context, Sedlmayr says that support for Lincoln is not out of line",
     "tags": ["Sedlmayr", "DeConcini"],
     "link": "/files/exhibits/DeConcini/%238%20Sedlmayr-DeConcini%20Memo%2003-10-88.pdf"
   }, {
-    "start": "4/18/1988",
+    "start": "4/18/1988 00:00:00 GMT-0600",
     "title": "Cranston and Grogan talk via telephone about Lincoln",
     "tags": ["Cranston", "Grogan"]
   }, {
-    "start": "4/24/1988",
+    "start": "4/24/1988 00:00:00 GMT-0600",
     "title": "Riegle sends a handwritten {note} to Keating thanking him for his support during the '88 reelection campaign",
     "tags": ["Riegle", "Keating"],
     "link": "/files/exhibits/Riegle/%232%20Riegle%20to%20Keating%2004-24-88.pdf"
   }, {
-    "start": "4/30/1988",
+    "start": "4/30/1988 00:00:00 GMT-0600",
     "title": "ACC hires Atchison",
     "description": "For an annual salary of $930,000",
     "tags": ["Lincoln", "Atchison"],
     "link": "Attached to e-mail (News #13)"
   }, {
-    "start": "5/6/1988",
+    "start": "5/6/1988 00:00:00 GMT-0600",
     "title": "Jordan sends {memo} to Cranston re: phone call with SF Regulators",
     "description": "SF Regulators confirm what she heard from Grogan re: the fact that they are taking aggressive action despite fraud admissions",
     "tags": ["Jordan, Cranston", "SF Regulators", "Lincoln"],
     "link": "/files/exhibits/Cranston/%2311%20Cranston%20Office%20Memo%2005-06-88.pdf"
   }, {
-    "start": "5/14/1988",
+    "start": "5/14/1988 00:00:00 GMT-0600",
     "title": "Bank Board and Lincoln enter into public Memorandum of Understanding",
     "tags": ["FHLBB", "Lincoln"]
   }, {
-    "start": "7/14/1988",
+    "start": "7/14/1988 00:00:00 GMT-0600",
     "title": "SF Regulators {deny} that Gray was in any way involved with FHLB-SF investigation of Lincoln",
     "description": "In response to letter from Gray requesting clarification after media coverage",
     "tags": ["SF Regulators", "Gray", "Lincoln"],
     "link": "/files/exhibits/Gray/%235%20Patriarca%20to%20Gray%2007-14-88.pdf"
   }, {
-    "start": "10/9/1988",
+    "start": "10/9/1988 00:00:00 GMT-0600",
     "title": "{Media:} THE SAVINGS AND LOAN CRISIS; Edwin Gray on the S&L Crisis 'This Was a Self-Inflicted Disaster'",
     "tags": ["Media", "Gray"],
     "link": "/files/evidence/12"
   }, {
-    "start": "10/9/1988",
+    "start": "10/9/1988 00:00:00 GMT-0600",
     "title": "{Media:} Savings & Loans & Intrigue & 'Meddling'",
     "description": "\"What was once a dirty little secret is now headline news: The American taxpayer will have to foot a bill, estimated at between $50 billion and $100 billion, to pay for the profligate pursuits of savings and loan operators.",
     "tags": ["Media"],
     "link": "/files/evidence/9"
   }, {
-    "start": "12/1/1988",
+    "start": "12/1/1988 00:00:00 GMT-0600",
     "title": "Keating calls DeConcini to make request (DeConcini says no)",
     "description": "Asks for DeConcini to call new FHLBB Chairman Wall and see if he will hold the audit and push for approval of Lincoln's sale. Keating needs more time to sell the company to keep ACC viable. Instead, DeConcini just makes a status inquiry",
     "tags": ["Keating", "DeConcini", "Lincoln"]
   }, {
-    "start": "12/1/1988",
+    "start": "12/1/1988 00:00:00 GMT-0600",
     "title": "Jordan, Cranston, and Keating have dinner",
     "description": "Keating says he's getting out of the business",
     "tags": ["Jordan", "Cranston", "Keating"]
   }, {
-    "start": "12/21/1988",
+    "start": "12/21/1988 00:00:00 GMT-0600",
     "title": "DeConcini sends Sedlmayr memo re: sale of Lincoln",
     "description": "DeConcini seems to express genuine concern about general state of AZ economy, not just political favor to Keating",
     "tags": ["DeConcini", "Sedlmayr", "Lincoln"]
   }, {
-    "start": "1/1/1989",
+    "start": "1/1/1989 00:00:00 GMT-0600",
     "title": "Keating sends DeConcini a {note} asking for money for an anti-pornography group, acknowledging that \"it seems like [he is] asking an awful lot of favors lately",
     "description": "DeConcini writes on note to aide: \"Pls draft letter to Goldwater & AG & with copy (blind) Keating. Mention pornography & my strong stand. Dennis.\" The letter was sent sometime in 1989 - the exact date is unknown",
     "tags": ["Keating", "DeConcini"],
     "link": "/files/exhibits/DeConcini/%2313%20Keating%20to%20DeConcini%20(1989).pdf"
   }, {
-    "start": "2/7/1989",
+    "start": "2/7/1989 00:00:00 GMT-0600",
     "title": "Jordan, DeConcini, Gottlieb (a Riegle aide), Sedlmayr, Cranston and Grogan meet in DeConcini's office re: sale of Lincoln.",
     "description": "Grogan talks about Lincoln's intent to sell; seeking help in getting Bank Board to approve the sale",
     "tags": ["Grogan, Sedlmayr, Cranston, Jordan, DeConcini", "Riegle", "Lincoln"]
   }, {
-    "start": "2/8/1989",
+    "start": "2/8/1989 00:00:00 GMT-0600",
     "title": "Jordan calls Dochow (FHLBB Regulation Supervisor)",
     "description": "Wants to check on why the Bank Board is involved in selling this early (if Lincoln is a healthy company, as she thought). Dochow says Lincoln's net worth is in dispute",
     "tags": ["Jordan", "FHLBB", "Lincoln"]
   }, {
-    "start": "2/9/1989",
+    "start": "2/9/1989 00:00:00 GMT-0600",
     "title": "Sedlmayr sends memo to DeConcini re: meeting with Grogan",
     "description": "Grogan wants DeConcini to push for approval of sale of Lincoln",
     "tags": ["Sedlmayr, DeConcini", "Grogan", "Lincoln"]
   }, {
-    "start": "2/17/1989",
+    "start": "2/17/1989 00:00:00 GMT-0600",
     "title": "DeConcini {calls} new FHLBB Chairman Wall and other members",
     "description": "Uses Sedlmayr's talking points for the call",
     "tags": ["DeConcini, FHLBB", "Lincoln", "Sedlmayr"],
     "link": "/files/exhibits/DeConcini/%237%20Sedlmayr-DeConcini%20Memo%2002-17-89.pdf"
   }, {
-    "start": "4/14/1989",
+    "start": "4/14/1989 00:00:00 GMT-0600",
     "title": "VanPaasschen writes {memo} to McCain summarizing the Lincoln case",
     "description": "Gives background information and states reasons why it was fine for McCain to be involved",
     "tags": ["VanPaasschen", "McCain"],
     "link": "/files/exhibits/McCain/%239%20Memo,%20to%20McCain%20from%20VanPaasschen,%20Banking%20Aide%2004-02-87.pdf"
   }, {
-    "start": "5/25/1989",
+    "start": "5/25/1989 00:00:00 GMT-0600",
     "title": "McCain sends {letter} to Gray asking if his actions were improper",
     "tags": ["Gray", "McCain"],
     "link": "/files/exhibits/McCain/%231%20McCain%20to%20Gray%2005-25-89.pdf"
   }, {
-    "start": "5/30/1989",
+    "start": "5/30/1989 00:00:00 GMT-0600",
     "title": "Sedlmayr drafts response to Gray-McCain letter for DeConcini",
     "tags": ["Sedlmayr", "DeConcini"]
   }, {
-    "start": "5/30/1989",
+    "start": "5/30/1989 00:00:00 GMT-0600",
     "title": "Gray {responds} to McCain's letter",
     "description": "Appreciates McCain writing earnestly, but says that he was in the wrong",
     "tags": ["Gray", "McCain"],
     "link": "/files/exhibits/McCain/%232%20Gray's%20Response%20to%20(1)%2005-30-89.pdf"
   }, {
-    "start": "6/2/1989",
+    "start": "6/2/1989 00:00:00 GMT-0600",
     "title": "DeConcini sends {letter} to Gray",
     "description": "Says Gray's response to McCain's letter is bogus",
     "tags": ["DeConcini", "Gray"],
     "link": "/files/exhibits/DeConcini/%231%20DeConcini%20to%20Gray%2006-02-89.pdf"
   }, {
-    "start": "6/2/1989",
+    "start": "6/2/1989 00:00:00 GMT-0600",
     "title": "McCain {responds} to Gray's response",
     "description": "Basically says that the two will have to agree to disagree",
     "tags": ["Gray", "McCain"],
     "link": "/files/exhibits/McCain/%233%20McCain's%20Response%20to%20(2)%2006-02-89.pdf"
   }, {
-    "start": "6/5/1989",
+    "start": "6/5/1989 00:00:00 GMT-0600",
     "title": "Gray {responds} to DeConcini's letter",
     "description": "Basically calls DeConcini a liar",
     "tags": ["DeConcini", "Gray"],
     "link": "/files/exhibits/DeConcini/%232%20Gray's%20Response%20to%20(1)%2006-05-89.pdf"
   }, {
-    "start": "6/7/1989",
+    "start": "6/7/1989 00:00:00 GMT-0600",
     "title": "Cranston sends {letter} to Gray",
     "description": "Says that Gray's response to McCain's letter is \"curious\" and bogus",
     "tags": ["Cranston", "Gray"],
     "link": "/files/exhibits/Cranston/%231%20Cranston%20to%20Gray%2006-07-89.pdf"
   }, {
-    "start": "6/14/1989",
+    "start": "6/14/1989 00:00:00 GMT-0600",
     "title": "{Media:} THE $150 BILLION CALAMITY; Hardening the S&L Battle Lines 'You Can't Restrict Our God-Given Right to Make Profits!'",
     "tags": ["Media"],
     "link": "/files/evidence/10"
   }, {
-    "start": "6/14/1989",
+    "start": "6/14/1989 00:00:00 GMT-0600",
     "title": "DeConcini sends {note} to Sedlmayr about damage control",
     "description": "Asks Sedlmayr to start \"right away\" and \"discredit Gray",
     "tags": ["DeConcini", "Gray"],
     "link": "/files/exhibits/DeConcini/%2311%20DeConcini-Sedlmayr%20Fallout%2006-14-89.pdf"
   }, {
-    "start": "6/15/1989",
+    "start": "6/15/1989 00:00:00 GMT-0600",
     "title": "Gray {responds} to Cranston's letter",
     "description": "Basically calls Cranston a liar",
     "tags": ["Cranston", "Gray"],
     "link": "/files/exhibits/Cranston/%232%20Gray's%20Response%20to%20(1)%2006-15-89.pdf"
   }, {
-    "start": "6/15/1989",
+    "start": "6/15/1989 00:00:00 GMT-0600",
     "title": "Cranston sends {letter} to The Wall Street Journal responding to allegations of impropriety",
     "description": "Casts his involvement as limited and constituent service",
     "tags": ["Cranston"],
     "link": "/files/exhibits/Cranston/%236%20Cranston%20Letter%20to%20the%20Editor%20WSJ%2006-15-89.pdf"
   }, {
-    "start": "6/20/1989",
+    "start": "6/20/1989 00:00:00 GMT-0600",
     "title": "McCain calls Gray about letters",
     "tags": ["McCain", "Gray"]
   }, {
-    "start": "6/21/1989",
+    "start": "6/21/1989 00:00:00 GMT-0600",
     "title": "An FHLBB member writes a {letter} in support of DeConcini and Cranston",
     "tags": ["DeConcini", "Cranston", "FHLBB"],
     "link": "/files/exhibits/DeConcini/%2314%20FHLBB%20Member%20Letter%20in%20Support%20DeConcini%20and%20Cranston%2006-21-89.pdf"
   }, {
-    "start": "7/25/1989",
+    "start": "7/25/1989 00:00:00 GMT-0600",
     "title": "McCain releases press {statement} regarding his involvement with ACC",
     "description": "Notes that ACC is a major employer in AZ and that he attended on his own free will",
     "tags": ["McCain", "Lincoln"],
     "link": "/files/exhibits/McCain/%234%20McCain%20Press%20Release%2007-25-89.pdf"
   }, {
-    "start": "9/16/1989",
+    "start": "9/16/1989 00:00:00 GMT-0600",
     "title": "{Media:} $1.1 Billion Bank Fraud Suit Filed; New Rescue Agency Accuses S&L Owner of Racketeering, U.S. Regulators File Suit Against Calif. S&L Owner",
     "description": "\"Federal banking regulators yesterday filed the biggest bank fraud lawsuit ever, accusing Arizona real estate developer Charles Keating and his associates of directing a racketeering scheme that destroyed...",
     "tags": ["Media", "Keating", "Lincoln"],
     "link": "/files/evidence/2"
   }, {
-    "start": "11/9/1989",
+    "start": "11/9/1989 00:00:00 GMT-0600",
     "title": "DeConcini releases {statement} denying that a vote for military aid for the Contras was in exchange for White House appointment of a Keating-friendly individual to the FHLBB",
     "tags": ["DeConcini"],
     "link": "/files/exhibits/DeConcini/%233%20DeConcini%20Statement%2011-09-89.pdf"
   }, {
-    "start": "11/14/1989",
+    "start": "11/14/1989 00:00:00 GMT-0600",
     "title": "{Media:} Auditors Of Lincoln On the Spot; Auditor's Letter to a Senator; Advocacy Role Questioned",
     "tags": ["Media", "Atchison"],
     "link": "/files/evidence/13"
   }, {
-    "start": "12/7/1989",
+    "start": "12/7/1989 00:00:00 GMT-0600",
     "title": "Riegle's attorneys release lengthy {letter} denying his involvement with Lincoln",
     "description": "Call it \"very limited",
     "tags": ["Riegle"],
     "link": "/files/exhibits/Riegle/%238%20Statement%20from%20Riegle's%20Counsel%2012-07-89.pdf"
   }, {
-    "start": "1/1/1990",
+    "start": "1/1/1990 00:00:00 GMT-0600",
     "title": "DeConcini returns Keating's contributions",
     "description": "After Federal government files a lawsuit charging civil fraud. This was a campaign-wide policy of his",
     "tags": ["DeConcini", "Keating"]
   }, {
-    "start": "1/19/1990",
+    "start": "1/19/1990 00:00:00 GMT-0600",
     "title": "Cranston releases press {statement} alleging impropriety on Gray's part",
     "tags": ["Gray", "Cranston"],
     "link": "/files/exhibits/Cranston/%237%20Cranston%20Press%20Release%2001-19-90.pdf"
   }, {
-    "start": "1/22/1990",
+    "start": "1/22/1990 00:00:00 GMT-0600",
     "title": "Cranston {announces} introduction of legislation to protect those who lost savings in Lincoln collapse",
     "tags": ["Cranston"],
     "link": "/files/exhibits/Cranston/%238%20Cranston%20Press%20Release%2001-22-90.pdf"
   }, {
-    "start": "3/5/1990",
+    "start": "3/5/1990 00:00:00 GMT-0600",
     "title": "Media: Keating, Failed King of Thrifts, Lincoln S&L's Deposed Chief, Blasting Back at the Regulators",
     "description": "\"Federal officials say the taxpayer bailout of Keating's bankrupt Lincoln Savings and Loan - one of hundreds of failed thrifts nationwide - could cost every man, woman, and child in America $10 each.",
     "tags": ["Media", "Keating", "Lincoln"]
