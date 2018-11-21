@@ -14,7 +14,16 @@
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav">
       <li{{#is name 'home'}} class="active"{{/is}}><a href="/">Home</a></li>
-      <li{{#is name 'about'}} class="active"{{/is}}><a href="/about">Overall Story</a></li>
+      <li class="dropdown{{#is name 'about'}} active{{/is}}">
+        <a href="/about" class="dropdown-toggle" data-toggle="dropdown">Overall Story <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+          <li><a href="/about#page1">Part I: Cracks Appear</a></li>
+          <li><a href="/about#page2">Part II: To the Senate</a></li>
+          <li><a href="/about#page3">Part III: Appropriate Advocacy or Improper Intervention?</a></li>
+          <li><a href="/about#page4">Part IV: Fallout</a></li>
+        </ul>
+      </li>
+      <!-- Old Code: <li{{#is name 'about'}} class="active"{{/is}}><a href="/about">Overall Story</a></li>-->
       <li{{#is name 'timeline'}} class="active"{{/is}}><a href="/timeline">Timeline</a></li>
       <li{{#is name 'actors'}} class="active"{{/is}}><a href="/actors">Actors</a></li>
       <li class="dropdown{{#is name 'enduring'}} active{{/is}}">
