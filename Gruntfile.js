@@ -156,6 +156,7 @@ module.exports = function (grunt) {
     }
   });
 
+  grunt.loadNpmTasks('grunt-assemble');
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-jshint');
@@ -164,7 +165,6 @@ module.exports = function (grunt) {
   grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-stylus');
   grunt.loadNpmTasks('grunt-contrib-symlink');
-  grunt.loadNpmTasks('assemble');
 
   grunt.registerTask('default', ['stylus', 'cssmin', 'closure-compiler', 'concat', 'assemble', 'symlink']);
   grunt.registerTask('test', ['jshint']);
