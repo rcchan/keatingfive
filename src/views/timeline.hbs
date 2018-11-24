@@ -151,6 +151,7 @@ name: timeline
           e.title = e.title.replace(/\{(.+)\}/, '<a href="' + e.link + '">$1</a>');
         }
       });*/
+      json.events.forEach(e => e.description = e.description || '');
       eventSource.loadJSON(json, url);
     });
     
