@@ -8,7 +8,7 @@ name: timeline
   Items with words surrounded by {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} link to exhibits.
 </p>
 
-    
+
 <div id="tl" class="timeline-default" style="height: 400px;">
 </div>
 <div class="footnotes">
@@ -21,7 +21,7 @@ name: timeline
 <script>
     var tl;
     var eventSource = new Timeline.DefaultEventSource();
-    
+
     var zones = [
         /*{   start:    "Fri Nov 22 1963 00:00:00 GMT-0600",
             end:      "Mon Nov 25 1963 00:00:00 GMT-0600",
@@ -82,17 +82,17 @@ name: timeline
             multiple: 18
         }
     ];
-    
+
     var theme = Timeline.ClassicTheme.create();
     theme.event.label.width = 250; // px
     theme.event.bubble.width = 250;
     theme.event.bubble.height = 200;
-    
+
     var date = "10/1/1986"
     var bandInfos = [
         Timeline.createHotZoneBandInfo({
-            width:          "75%", 
-            intervalUnit:   Timeline.DateTime.MONTH, 
+            width:          "75%",
+            intervalUnit:   Timeline.DateTime.MONTH,
             intervalPixels: 200,
             zones:          zones,
             eventSource:    eventSource,
@@ -101,14 +101,14 @@ name: timeline
             theme:          theme
         }),
         Timeline.createHotZoneBandInfo({
-            width:          "25%", 
-            intervalUnit:   Timeline.DateTime.YEAR, 
+            width:          "25%",
+            intervalUnit:   Timeline.DateTime.YEAR,
             intervalPixels: 200,
-            zones:          zones2, 
+            zones:          zones2,
             eventSource:    eventSource,
-            date:           date, 
+            date:           date,
             timeZone:       -6,
-            showEventText:  false, 
+            showEventText:  false,
             trackHeight:    0.5,
             trackGap:       0.2,
             theme:          theme
@@ -117,7 +117,7 @@ name: timeline
     bandInfos[1].syncWith = 0;
     bandInfos[1].highlight = true;
     bandInfos[1].eventPainter.setLayout(bandInfos[0].eventPainter.getLayout());
-    
+
     /*for (var i = 0; i < bandInfos.length; i++) {
         bandInfos[i].decorators = [
             new Timeline.SpanHighlightDecorator({
@@ -143,7 +143,7 @@ name: timeline
             })
         ];
     }*/
-    
+
     tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
     tl.loadJSON("/files/timeline2.json", function(json, url) {
       /*json.events.forEach(function(e) {
@@ -154,7 +154,7 @@ name: timeline
       json.events.forEach(e => e.description = e.description || '');
       eventSource.loadJSON(json, url);
     });
-    
+
     setupFilterHighlightControls(document.getElementById("controls"), tl, [0,1], theme);
     var resizeTimerID = null;
     function onResize() {
@@ -166,3 +166,8 @@ name: timeline
         }
     }
 </script>
+
+<p>
+  Typing an actor's name in the "filter" box will display only the events associated with the actor specified.<br />
+  Typing an actor's name in one of the "highlight" boxes will highlight the events associated with that actor; use multiple boxes simultaneously to highlight more than one actor at a time.
+</p>
