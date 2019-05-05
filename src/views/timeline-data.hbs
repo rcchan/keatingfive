@@ -7,8 +7,8 @@ name: timeline
 $.getJSON('/files/timeline2.json', function(r) {
   r.events.forEach(function(e) {
     $('#data').append($('<tr />')
-      .append($('<td />').text(e.start))
-      .append($('<td />').text(e.end || '-'))
+      .append($('<td />').text(e.start.replace(' 00:00:00 GMT-0600', '')))
+      .append($('<td />').text(e.end && '-'))
       .append($('<td />').html(e.title.replace(/\{(.+?)\}/, '<a href="' + e.link + '">$1</a>')))
       .append($('<td />').text(e.description)));
   });
