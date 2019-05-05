@@ -1,6 +1,27 @@
 ---
 name: timeline
 ---
+<style>
+/* Hack to make ticks thicker. */
+.timeline-band~div~.timeline-band .timeline-band-layer-inner[name="events"] > div {
+  border-right: 4px solid rgb(88, 160, 220);
+}
+/*
+Disabled: hack to display TZ after toUTCString.
+.timeline-event-bubble-time:after {
+  content: "-0600"
+}
+*/
+</style>
+<script>
+// Hack to remove times from display.
+(function() {
+  const original = Date.prototype.toUTCString;
+  Date.prototype.toUTCString = function() {
+    return original.apply(this, arguments).replace(/ GMT$/g, ' CST').replace(' 00:00:00 CST', '');
+  }
+})();
+</script>
 <p>
   Click and drag or use scroll wheel to navigate.
   Click event to see details below.<br />
